@@ -1,0 +1,179 @@
+/* IS 139 Section 211 - Web Publishing
+Final Project
+
+TERRORByte Studios Website Stylesheet
+Author: Dion Irons 
+Date: 5/05/2025
+
+Filename:   main.css */
+
+html {
+    background-color: #222222 ;
+    font-family: VT323, 'Courier New', Courier, monospace;
+    color:aliceblue;
+}
+a {
+    text-decoration: none;
+    color:#5e17eb;
+}
+a:visited {
+    color: deeppink;
+}
+ 
+
+/* Header Styles */
+header {
+    width: 100%;
+    background: linear-gradient( #1a1a1a, #5e17eb);
+    border: thick dashed black;
+}
+
+header img {
+    display: block;
+    max-width: 50%;
+    height: auto;
+    margin: auto;
+}
+
+/* Navigation Styles */
+nav {
+    width: 100%;
+    background-color: #0a0a0a;
+    text-align: center;
+    border-top: thick dashed black;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#headerNav li {
+    display: inline-block;
+    font-size: 2em;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+
+
+/* Body Styles */
+body {
+    background-color: #1a1a1a;
+    width: 95%;
+    margin: auto;
+    box-shadow: 15px 15px black;
+}
+
+:is(h1, h2, h3, h4, h5, h6) {
+    font-family: VT323;
+}
+
+aside {
+    float: left;
+    max-height: 80vmin;
+    width: 25%;
+    border: medium solid black;
+
+}
+aside ul li {
+    background-color: #0a0a0a;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    font-size: 80%;
+}
+
+aside ul li::before {
+    content: "☠"; 
+    padding-right: 8px;
+
+    color: deeppink;
+}
+
+
+aside .info {
+    padding: 5%;
+}
+
+/* Body > Main Content Styles */
+
+section{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    font-size: 1.5;
+}
+
+section .main {
+    padding: 2% 5%;
+    width: 42%;
+    min-height:35vh;
+}
+
+#content {
+    font-size: 1.5em;
+    
+}
+ /* Preview Styles*/
+
+ .preview {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2% 5%;
+    width: 30%;
+ }
+
+ 
+/* Article Styles */
+
+.anchor {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.window {
+    background-color: #1a1a1a;
+    border: medium solid black;
+    padding: 1rem;
+    box-shadow: 1vh 1vh #0a0a0a71;
+    width: 30%;
+    max-height: 25vh;   
+}
+
+.window img {
+    width: 100%;
+    height: 10rem;
+    object-fit: cover;
+    position: relative;
+}
+
+.teaser > p {
+    background-color: #0e0e0e7e;
+    box-sizing: border-box;
+    display: inline-block;
+
+}
+
+/*Footer Styles */
+
+footer {
+    display: inline-block;
+    background-color: #0a0a0a;
+    border: thick black;
+    border-style: dashed hidden dashed hidden;
+    width: 100%;
+    height: 5vmin;
+    text-align: center;
+}
+
+footer div {
+    display: inline-block;
+    margin: auto;
+    padding: 1%;
+    font-size: 2em;
+}

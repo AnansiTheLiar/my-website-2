@@ -1,0 +1,87 @@
+   
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--
+    IS 139 Section 211 - Web Publishing
+
+
+    TERRORByte Studios Website
+    Author: Dion Irons 
+    Date: 5/13/2025
+
+    Filename:   ContactUs.html
+
+--> 
+   
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>TERRORBYTE Studios</title>
+    <link href="main.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="form.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet"> 
+</head>
+<body>
+    <header>
+        <img src="assets/images/TERRORBYTE_logo.png" id="logo" alt="TerrorByte Studios"/>
+        <nav id="headerNav">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="Games.html">Games</a></li>
+                <li><a href="AboutUs.html">About Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div id="content">
+        
+            <section>
+                <p><h1>Contact Us</h1></p>
+                <p><br><br><em>WE’D LOVE TO HAUNT YOUR INBOX!</em>
+                    <br>Got questions, bug reports, or a cursed NES cartridge you need appraised? Fill out the form below! We don’t bite (except Hellboy).</p>
+                <form id="survey" action="#" method="post">
+                    <fieldset id="">
+                        <legend>Contact Form</legend>
+                        <br><em>Required values are marked by an asterisk (*)</em><br>
+                        <div class="formRow">    
+                            <label for="name">First Name*</label>
+                            <input name="fName" id="fname" type="text" placeholder="First Name" autofocus required/>
+                        </div>
+                        <div>  
+                            <label for="lname">Last Name</label>  
+                            <input name="fName" id="lname" type="text" placeholder="Last Name" autofocus/>
+                        </div>
+                        <div class="formRow">
+                            <label for="phone">Phone Number</label>
+                            <input name="custPhone" id="phone" type="tel" placeholder="(###) ###-####" pattern="^\d{10}$|^(\(\d{3}\)\s*)?\d{3}[\s-]?\d{4}$" />
+                        </div>
+
+                        <div class="formRow">
+                            <label for="mail">E-mail*</label>
+                            <input name="Email" id="mail" type="email" placeholder="example@site.com" required />
+                        </div>
+                        <div class="formRow">
+                        </div>            
+                        <input type="checkbox" name="mailMe" id="newsletter" value="yes">
+                        <label for="newsletter">Check here to subscribe to our monthly newsletter: “TERRORBite-Sizes” </label>
+                        <div class="formRow">
+                            <label for="commBox">Comments</label>
+                            <textarea name="custExp" id="commBox"></textarea>
+                        </div>            
+                    </fieldset>
+
+                
+                    <div id="buttons">
+                        <input type="submit" value="Submit My Survey" />
+                        <input type="reset" value="Cancel" />
+                    </div>
+                </form>
+            </section>
+    </div>
+</body>
+
+<footer>
+    <div>TERRORByte Studios ©2024</div> <div><a href="ContactUs.html">Contact Us</a></div>
+</footer>

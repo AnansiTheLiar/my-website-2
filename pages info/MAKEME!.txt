@@ -1,0 +1,56 @@
+MAKE★ME!
+
+“Let’s play dress-up, bestie! 💖”
+
+Step into the glittering world of MAKE★ME!, where you get to style the perfect digital companion! Choose my hair, my clothes, my smile—I’m your canvas, after all! What am even I getting all fancy for? And who keeps leaving those other outfits in my closet? Haha, who knows! Just keep clicking, keep customizing, keep making me perfect.
+
+(…Do you even see me? Are you there?)
+
+MAKE★ME! DEVLOG / CHANGELOG:
+
+“Updates so fresh, they’re practically haute couture.”
+
+
+v1.2.0 – “Mirror, Mirror (Who’s There?)” – January 2025
+
+
+    NEW: Added 15+ “mystery accessories” found in the closet after Night 4! (Who left that pretty red hairpin? Not us! 👀)
+
+    FIXED: Protagonist no longer temporarily vanishes if you remove all clothing items. (She’s shy, but I mean, who wouldn't be?)
+
+    TWEAK: Dialogue now shifts subtly after 100+ outfit changes. (“Do you ever get tired of choosing?”)
+
+    SECRET: Try typing “WHOAMI” in the settings menu. (We promise nothing. Or do we?)
+
+
+Dev Notes:
+
+“The ‘glitch’ where she stares directly into the camera wasn’t a glitch. We’re as unsettled as you are.” – Hellboy
+
+“Added more glitter. Always more glitter.” – Artic
+
+
+v1.1.3 – “Patchwork Personality” – November 2024
+
+
+    NEW: “Randomize” button! Let us pick your look! (We’re great at decisions. Trust us.)
+
+    FIXED: Removed unintended shadowy figure in the dressing room mirror. (Or did we?)
+
+    TWEAK: Smile animations change after midnight to better-match new interactions.
+
+    QOL: Added a “Are you sure?” prompt before deleting save files. (She really doesn’t like that.)
+
+
+
+Controls:
+Mouse to Control UI
+Keyboard for text input
+
+Available for Windows and macOS
+
+[Purchase] $9.99 USD or [Name Your Price!]
+File Preview:
+  MONEYPIT(Windows).zip(455mb)
+  MONEYPIT(macOS).zip (435mb)
+itch.io (TERRORByte.itch.io/moneypit)

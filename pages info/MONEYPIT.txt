@@ -1,0 +1,52 @@
+“Move-in ready! (Terms and living conditions apply.)”
+
+Congratulations, new homeowners! Your charming fixer-upper has so much potential—like the “rustic” plumbing, the “vintage” electrical wiring, and the literal portal to hell in the basement! By day, juggle repair bills, contractor drama, and your kids’ complaints about the demonic raccoons in the attic. By night, survive spectral squatters, walls that bleed mortgage statements, and a garden that grows some dead guy's thumbs instead of tomatoes.
+
+Can your family survive the American Dream?
+
+A darkly comedic horror sim/boomer shooter about debt, decay, and the things that go bump in your credit score.
+
+MONEY PIT Changelog:
+
+v2.0.0 – “The One With New Content” – August 2022
+
+
+    NEW: “Haunted Homeowner’s Handbook” in-game guide! (Tip #1: Don’t feed the basement.)
+
+    NEW: Demonic raccoons now have names, backstories, and a union. Negotiate their demands!
+    
+    NEW: Hope you're tidy and settled in, because this update brings a whole new event—the Welcome Wagon! They've even brought gifts!
+
+    FIXED: Oven no longer summons actual hellfire when baking cookies. (Replaced with confetti. Still very flammable.)
+
+    TWEAK: Kids’ dialogue now includes more varied reactions (such as 50% more eye-rolling when asked to "salt the portals, sweetie.”)
+
+    SECRET: Dig 666 times in the garden to meet someone new! Make sure to bring a coin or two with you!
+
+
+Dev Notes:
+
+“The raccoon strike mechanic was Jodie’s idea. We’re not apologizing.” – Arctic
+
+
+v1.5.2 – “Subprime Spooks” – June 2022
+
+
+    NEW: “Budget Horror” mode! Limited funds + more poltergeists. (Good luck.)
+
+    FIXED: Ghosts no longer clog toilets and your credit line simultaneously. (They’ll alternate now. Progress!)
+
+    TWEAK: Added ambient sounds: distant sobbing, 2000s pop hits played on a crappy iPod.
+
+    QOL: Added a “Sell Soul to Contractor” button. (It’s in the fine print. Always read the fine print.)
+
+
+
+
+Controls:
+Mouse to Control UI
+Keyboard for text input
+
+Expected Platforms: Steam, itch.io (Windows and macOS)
+
+Expected Release Date: August 2025
